@@ -1,0 +1,7 @@
+torch
+opencv-python-headless
+scikit-learn
+numpy
+fastapi
+uvicorn
+streamlit
